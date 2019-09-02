@@ -1,0 +1,2 @@
+# Promise Not To Worry
+This is a program I wrote during a paired programming session at a meetup. My code is the stuff below the slashes that I ended up adding after learnign how promises in JavaScript work.
